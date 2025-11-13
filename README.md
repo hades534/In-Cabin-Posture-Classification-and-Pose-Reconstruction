@@ -1,4 +1,4 @@
-# Camera-Less In-Cabin Monitoring using Pressure Sensor Fusion
+# In-Cabin Posture Classification and Pose Reconstruction Using Pressure Sensor Fusion
 
 A privacy-preserving in-cabin monitoring system that uses pressure sensors for high-accuracy posture classification and camera-less 2D pose reconstruction.
 
@@ -35,3 +35,4 @@ The system was built and tested using the following hardware:
 
 **Processing Unit:**
 - A central microcontroller (e.g., Arduino or ESP32) to aggregate and transmit sensor data via Serial/USB.  
+
